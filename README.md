@@ -1,5 +1,5 @@
 # print-commodiy-code
-To print product codes, you need to customize the print preview module, then adjust the qr codes in a row, and adjust the printing mode according to the size of the paper.
+To print the product codes, you need to customize the print preview module, then adjust the qr codes in a row, and adjust the printing mode according to the size of the paper.
 
 # Note: Need to install package in advance
 npm install vue-grid-layout, vue-qr
